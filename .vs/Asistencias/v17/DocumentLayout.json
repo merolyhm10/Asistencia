@@ -1,0 +1,499 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Asistencias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|solutionrelative:asistencias.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.client\\src\\styles\\eventdetail.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|solutionrelative:asistencias.client\\src\\styles\\eventdetail.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.client\\src\\pages\\eventdetail.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|solutionrelative:asistencias.client\\src\\pages\\eventdetail.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.client\\src\\pages\\view.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|solutionrelative:asistencias.client\\src\\pages\\view.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FC51EC-D5FD-4BC9-AF97-2D4F2BD03D7A}|Asistencias.Server\\Asistencias.Server.csproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.server\\models\\serverresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FC51EC-D5FD-4BC9-AF97-2D4F2BD03D7A}|Asistencias.Server\\Asistencias.Server.csproj|solutionrelative:asistencias.server\\models\\serverresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FC51EC-D5FD-4BC9-AF97-2D4F2BD03D7A}|Asistencias.Server\\Asistencias.Server.csproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.server\\controllers\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FC51EC-D5FD-4BC9-AF97-2D4F2BD03D7A}|Asistencias.Server\\Asistencias.Server.csproj|solutionrelative:asistencias.server\\controllers\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FC51EC-D5FD-4BC9-AF97-2D4F2BD03D7A}|Asistencias.Server\\Asistencias.Server.csproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86FC51EC-D5FD-4BC9-AF97-2D4F2BD03D7A}|Asistencias.Server\\Asistencias.Server.csproj|solutionrelative:asistencias.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FC51EC-D5FD-4BC9-AF97-2D4F2BD03D7A}|Asistencias.Server\\Asistencias.Server.csproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FC51EC-D5FD-4BC9-AF97-2D4F2BD03D7A}|Asistencias.Server\\Asistencias.Server.csproj|solutionrelative:asistencias.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.client\\src\\styles\\crearevento.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|solutionrelative:asistencias.client\\src\\styles\\crearevento.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.client\\src\\styles\\view.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|solutionrelative:asistencias.client\\src\\styles\\view.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FC51EC-D5FD-4BC9-AF97-2D4F2BD03D7A}|Asistencias.Server\\Asistencias.Server.csproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FC51EC-D5FD-4BC9-AF97-2D4F2BD03D7A}|Asistencias.Server\\Asistencias.Server.csproj|solutionrelative:asistencias.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FC51EC-D5FD-4BC9-AF97-2D4F2BD03D7A}|Asistencias.Server\\Asistencias.Server.csproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.server\\conexion\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FC51EC-D5FD-4BC9-AF97-2D4F2BD03D7A}|Asistencias.Server\\Asistencias.Server.csproj|solutionrelative:asistencias.server\\conexion\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.client\\src\\pages\\crearevento.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|solutionrelative:asistencias.client\\src\\pages\\crearevento.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FC51EC-D5FD-4BC9-AF97-2D4F2BD03D7A}|Asistencias.Server\\Asistencias.Server.csproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.server\\newfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{86FC51EC-D5FD-4BC9-AF97-2D4F2BD03D7A}|Asistencias.Server\\Asistencias.Server.csproj|solutionrelative:asistencias.server\\newfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.client\\src\\pages\\addparticipantmodal.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|solutionrelative:asistencias.client\\src\\pages\\addparticipantmodal.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.client\\src\\styles\\modal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|solutionrelative:asistencias.client\\src\\styles\\modal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.client\\src\\routes\\routes.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|solutionrelative:asistencias.client\\src\\routes\\routes.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.client\\src\\styles\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|solutionrelative:asistencias.client\\src\\styles\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|solutionrelative:asistencias.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.client\\src\\dbconect\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|solutionrelative:asistencias.client\\src\\dbconect\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.client\\src\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|solutionrelative:asistencias.client\\src\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|solutionrelative:asistencias.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|solutionrelative:asistencias.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|solutionrelative:asistencias.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BF109758-0AB0-4E8E-BD72-39244CCFCAB7}|asistencias.client\\asistencias.client.esproj|solutionrelative:asistencias.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\Asistencias\\node_modules\\react-router-dom\\dist\\index.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:node_modules\\react-router-dom\\dist\\index.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\.vsdbgsrc\\933267af338330fbc63378db5783856d5f133a0a4cee4f9fbb0b17aac1ab68b6\\JsonObjectIdConverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FC51EC-D5FD-4BC9-AF97-2D4F2BD03D7A}|Asistencias.Server\\Asistencias.Server.csproj|c:\\users\\hp\\source\\repos\\asistencias\\asistencias.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FC51EC-D5FD-4BC9-AF97-2D4F2BD03D7A}|Asistencias.Server\\Asistencias.Server.csproj|solutionrelative:asistencias.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 291,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "View.jsx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\Pages\\View.jsx",
+              "RelativeDocumentMoniker": "asistencias.client\\src\\Pages\\View.jsx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\Pages\\View.jsx",
+              "RelativeToolTip": "asistencias.client\\src\\Pages\\View.jsx",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAwwH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-09T01:48:05.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventDetail.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\Styles\\EventDetail.css",
+              "RelativeDocumentMoniker": "asistencias.client\\src\\Styles\\EventDetail.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\Styles\\EventDetail.css",
+              "RelativeToolTip": "asistencias.client\\src\\Styles\\EventDetail.css",
+              "ViewState": "AQIAACMAAAAAAAAAAAAqwHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-12T01:32:24.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\Asistencias.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Asistencias.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\Asistencias.Server\\appsettings.json",
+              "RelativeToolTip": "Asistencias.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-09T03:24:48.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventDetail.jsx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\Pages\\EventDetail.jsx",
+              "RelativeDocumentMoniker": "asistencias.client\\src\\Pages\\EventDetail.jsx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\Pages\\EventDetail.jsx",
+              "RelativeToolTip": "asistencias.client\\src\\Pages\\EventDetail.jsx",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAwwKwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-12T01:29:30.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\Asistencias.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Asistencias.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\Asistencias.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Asistencias.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T01:19:20.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\index.html",
+              "RelativeDocumentMoniker": "asistencias.client\\index.html",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\index.html",
+              "RelativeToolTip": "asistencias.client\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-08T21:37:48.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CrearEvento.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\Styles\\CrearEvento.css",
+              "RelativeDocumentMoniker": "asistencias.client\\src\\Styles\\CrearEvento.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\Styles\\CrearEvento.css",
+              "RelativeToolTip": "asistencias.client\\src\\Styles\\CrearEvento.css",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAwwIMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-11T01:29:07.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\Asistencias.Server\\Controllers\\Consulta.cs",
+              "RelativeDocumentMoniker": "Asistencias.Server\\Controllers\\Consulta.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\Asistencias.Server\\Controllers\\Consulta.cs",
+              "RelativeToolTip": "Asistencias.Server\\Controllers\\Consulta.cs",
+              "ViewState": "AQIAAEgBAAAAAAAAAAAwwFwBAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:05:31.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServerResult.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\Asistencias.Server\\Models\\ServerResult.cs",
+              "RelativeDocumentMoniker": "Asistencias.Server\\Models\\ServerResult.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\Asistencias.Server\\Models\\ServerResult.cs",
+              "RelativeToolTip": "Asistencias.Server\\Models\\ServerResult.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAwwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T02:56:34.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "View.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\Styles\\View.css",
+              "RelativeDocumentMoniker": "asistencias.client\\src\\Styles\\View.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\Styles\\View.css",
+              "RelativeToolTip": "asistencias.client\\src\\Styles\\View.css",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAAJkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-09T01:47:59.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\Asistencias.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Asistencias.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\Asistencias.Server\\Program.cs",
+              "RelativeToolTip": "Asistencias.Server\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:02:33.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\Asistencias.Server\\conexion\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "Asistencias.Server\\conexion\\MongoDBSettings.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\Asistencias.Server\\conexion\\MongoDBSettings.cs",
+              "RelativeToolTip": "Asistencias.Server\\conexion\\MongoDBSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:16:08.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CrearEvento.jsx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\Pages\\CrearEvento.jsx",
+              "RelativeDocumentMoniker": "asistencias.client\\src\\Pages\\CrearEvento.jsx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\Pages\\CrearEvento.jsx",
+              "RelativeToolTip": "asistencias.client\\src\\Pages\\CrearEvento.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-09T01:59:52.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Modal.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\Styles\\Modal.css",
+              "RelativeDocumentMoniker": "asistencias.client\\src\\Styles\\Modal.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\Styles\\Modal.css",
+              "RelativeToolTip": "asistencias.client\\src\\Styles\\Modal.css",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwDAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-13T03:46:00.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NewFile.txt",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\Asistencias.Server\\NewFile.txt",
+              "RelativeDocumentMoniker": "Asistencias.Server\\NewFile.txt",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\Asistencias.Server\\NewFile.txt",
+              "RelativeToolTip": "Asistencias.Server\\NewFile.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-13T04:58:09.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddParticipantModal.jsx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\Pages\\AddParticipantModal.jsx",
+              "RelativeDocumentMoniker": "asistencias.client\\src\\Pages\\AddParticipantModal.jsx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\Pages\\AddParticipantModal.jsx",
+              "RelativeToolTip": "asistencias.client\\src\\Pages\\AddParticipantModal.jsx",
+              "ViewState": "AQIAADMAAAAAAAAAAAAwwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-13T03:44:59.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Routes.jsx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\Routes\\Routes.jsx",
+              "RelativeDocumentMoniker": "asistencias.client\\src\\Routes\\Routes.jsx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\Routes\\Routes.jsx",
+              "RelativeToolTip": "asistencias.client\\src\\Routes\\Routes.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-08T21:37:26.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\Styles\\Login.css",
+              "RelativeDocumentMoniker": "asistencias.client\\src\\Styles\\Login.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\Styles\\Login.css",
+              "RelativeToolTip": "asistencias.client\\src\\Styles\\Login.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-08T23:30:50.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Server.js",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\DBConect\\Server.js",
+              "RelativeDocumentMoniker": "asistencias.client\\src\\DBConect\\Server.js",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\DBConect\\Server.js",
+              "RelativeToolTip": "asistencias.client\\src\\DBConect\\Server.js",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowDYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-09T01:23:11.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "asistencias.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\App.jsx",
+              "RelativeToolTip": "asistencias.client\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-08T21:38:03.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\vite.config.js",
+              "RelativeDocumentMoniker": "asistencias.client\\vite.config.js",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\vite.config.js",
+              "RelativeToolTip": "asistencias.client\\vite.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-11T21:26:15.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\index.css",
+              "RelativeDocumentMoniker": "asistencias.client\\src\\index.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\index.css",
+              "RelativeToolTip": "asistencias.client\\src\\index.css",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-10T01:20:47.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\Login.jsx",
+              "RelativeDocumentMoniker": "asistencias.client\\src\\Login.jsx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\Login.jsx",
+              "RelativeToolTip": "asistencias.client\\src\\Login.jsx",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-08T21:42:49.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "asistencias.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\main.jsx",
+              "RelativeToolTip": "asistencias.client\\src\\main.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-10T01:20:50.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\App.css",
+              "RelativeDocumentMoniker": "asistencias.client\\src\\App.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\src\\App.css",
+              "RelativeToolTip": "asistencias.client\\src\\App.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-11T01:29:10.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "JsonObjectIdConverter.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\AppData\\Local\\Temp\\.vsdbgsrc\\933267af338330fbc63378db5783856d5f133a0a4cee4f9fbb0b17aac1ab68b6\\JsonObjectIdConverter.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\933267af338330fbc63378db5783856d5f133a0a4cee4f9fbb0b17aac1ab68b6\\JsonObjectIdConverter.cs",
+              "ToolTip": "C:\\Users\\HP\\AppData\\Local\\Temp\\.vsdbgsrc\\933267af338330fbc63378db5783856d5f133a0a4cee4f9fbb0b17aac1ab68b6\\JsonObjectIdConverter.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\933267af338330fbc63378db5783856d5f133a0a4cee4f9fbb0b17aac1ab68b6\\JsonObjectIdConverter.cs [Solo lectura]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T01:17:47.88Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "index.d.ts",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\node_modules\\react-router-dom\\dist\\index.d.ts",
+              "RelativeDocumentMoniker": "node_modules\\react-router-dom\\dist\\index.d.ts",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\node_modules\\react-router-dom\\dist\\index.d.ts",
+              "RelativeToolTip": "node_modules\\react-router-dom\\dist\\index.d.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAACjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-10T01:20:28.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Asistencias\\Asistencias.Server\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Asistencias.Server\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Asistencias\\Asistencias.Server\\WeatherForecast.cs",
+              "RelativeToolTip": "Asistencias.Server\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:23:53.532Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 12,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
