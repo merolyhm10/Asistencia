@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "sfjo1GMZnj2U1Rbo2y0lIMT1uCmW2uasUNPqybsmyL/VxYKH1YNSUXK/SESZX2++mLZw+qoroSn11qHc3TwyGg==",
+  "dgSpecHash": "y8wYiH9qAF1IMBsJdMRaZbZBaYXANXQXdNUsGF2OYn14IiKDE6+uVL/wNVzNOxn34NcFYsvNE+vWAnxdoJlaJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Downloads\\Asistencias\\Asistencias.Server\\Asistencias.Server.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Documents\\asistenciasgit\\Asistencia\\Asistencias.Server\\Asistencias.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.8\\microsoft.aspnetcore.spaproxy.8.0.8.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.10\\microsoft.aspnetcore.spaproxy.8.0.10.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",

@@ -50,8 +50,7 @@ Consulta.ApiExtensions.CreateEvent(app);
 Consulta.ApiExtensions.UploadExcelFile(app);
 Consulta.ApiExtensions.GetEvents(app);
 Consulta.ApiExtensions.GetEventById(app);
-
-
+Consulta.ApiExtensions.UpdateEvent(app);
 
 
 app.Run();

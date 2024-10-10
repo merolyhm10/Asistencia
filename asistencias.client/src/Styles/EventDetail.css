@@ -7,6 +7,57 @@ body {
     color: black; /* Set default text color to black */
 }
 
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex: 1;
+}
+
+.logo img {
+    height: 70px;
+}
+
+.title {
+    flex: 1;
+    text-align: left;
+    padding-left: 20px;
+}
+
+    .title h1 {
+        font-size: 25px !important;
+        color: white;
+        margin: 0;
+        font-weight: bold;
+    }
+
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
+
+    .nav ul li a {
+        text-decoration: none;
+        color: #555;
+        font-size: 16px;
+    }
+
+        .nav ul li a:hover {
+            color: white;
+        }
+
+
 .event-detail-container {
     display: flex;
     flex-direction: column;
@@ -29,6 +80,7 @@ input[type="text"] {
     max-width: 400px;
     display: block;
     color: black; /* Set text color to black */
+    background: white;
 }
 
 /* Grid layout */
@@ -115,3 +167,49 @@ th {
             max-width: 100%;
         }
 }
+
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 50px;
+    height: 24px;
+}
+
+    .switch input {
+        opacity: 0;
+        width: 0;
+        height: 0;
+    }
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: 0.4s;
+    border-radius: 24px;
+}
+
+    .slider:before {
+        position: absolute;
+        content: "";
+        height: 18px;
+        width: 18px;
+        left: 4px;
+        bottom: 3px;
+        background-color: white;
+        transition: 0.4s;
+        border-radius: 50%;
+    }
+
+input:checked + .slider {
+    background-color: #4CAF50;
+}
+
+    input:checked + .slider:before {
+        transform: translateX(26px);
+    }

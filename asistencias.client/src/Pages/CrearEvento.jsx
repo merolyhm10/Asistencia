@@ -6,12 +6,11 @@ import logoArmada from '../assets/logo-armada.png';
 function CrearEvento() {
     const [title, setTitle] = useState('');
     const [location, setLocation] = useState('');
-    const [schedule, setSchedule] = useState('');
+    const [eventDateTime, setEventDateTime] = useState(''); // Nuevo estado
     const [manager, setManager] = useState('');
     const [description, setDescription] = useState('');
     const [excelFile, setExcelFile] = useState(null);
     const [setEventId] = useState(null);
-
 
     const handleFileChange = (e) => {
         setExcelFile(e.target.files[0]);
@@ -21,7 +20,7 @@ function CrearEvento() {
         const formData = new FormData();
         formData.append('title', title);
         formData.append('location', location);
-        formData.append('schedule', schedule);
+        formData.append('schedule', eventDateTime); // Cambiado aqui
         formData.append('manager', manager);
         formData.append('description', description);
         formData.append('dateRegistered', new Date().toISOString());
@@ -45,7 +44,7 @@ function CrearEvento() {
             }
         } catch (error) {
             console.error('Error al crear el evento:', error.response ? error.response.data : error.message);
-            alert('Evento creado exitosamente');
+            alert('Evento creado exitosamente.'); // Cambiado aqui
         }
     };
 
@@ -62,7 +61,7 @@ function CrearEvento() {
                         <img src={logoArmada} alt='Logo' />
                     </div>
                     <div className="title">
-                        <h1>Armada de Republica Dominicana, ARD.</h1>
+                        <h1>Sistema de asistencias a eventos</h1>
                     </div>
                 </div>
             </header>
@@ -91,12 +90,12 @@ function CrearEvento() {
                         />
                     </div>
                     <div className="formGroup">
-                        <label htmlFor="schedule">Fecha del Evento</label>
+                        <label htmlFor="eventDateTime">Fecha y Hora del Evento</label>
                         <input
-                            type="date"
-                            id="Schedule"
-                            value={schedule}
-                            onChange={(e) => setSchedule(e.target.value)}
+                            type="datetime-local"
+                            id="eventDateTime"
+                            value={eventDateTime}
+                            onChange={(e) => setEventDateTime(e.target.value)}
                             required
                         />
                     </div>
