@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Downloads\\Asistencias\\Asistencias.Server\\Asistencias.Server.csproj": {}
+    "C:\\Users\\HP\\Documents\\asistenciasgit\\Asistencia\\Asistencias.Server\\Asistencias.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Downloads\\Asistencias\\Asistencias.Server\\Asistencias.Server.csproj": {
+    "C:\\Users\\HP\\Documents\\asistenciasgit\\Asistencia\\Asistencias.Server\\Asistencias.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Downloads\\Asistencias\\Asistencias.Server\\Asistencias.Server.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\asistenciasgit\\Asistencia\\Asistencias.Server\\Asistencias.Server.csproj",
         "projectName": "Asistencias.Server",
-        "projectPath": "C:\\Users\\HP\\Downloads\\Asistencias\\Asistencias.Server\\Asistencias.Server.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\asistenciasgit\\Asistencia\\Asistencias.Server\\Asistencias.Server.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Downloads\\Asistencias\\Asistencias.Server\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\asistenciasgit\\Asistencia\\Asistencias.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

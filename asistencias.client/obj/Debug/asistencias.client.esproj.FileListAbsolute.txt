@@ -1,1 +1,2 @@
 C:\Users\HP\source\repos\Asistencias\asistencias.client\obj\Debug\asistencias.client.esproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\asistenciasgit\Asistencia\asistencias.client\obj\Debug\asistencias.client.esproj.CoreCompileInputs.cache

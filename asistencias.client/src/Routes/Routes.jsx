@@ -3,6 +3,7 @@ import Login from '../Login.jsx';
 import View from '../Pages/View.jsx';
 import CrearEvento from '../Pages/CrearEvento.jsx';
 import EventDetail from '../Pages/EventDetail.jsx';
+import Dashboard from '../Pages/Dashboard.jsx';
 
 export const router = createBrowserRouter([
     {
@@ -23,6 +24,11 @@ export const router = createBrowserRouter([
     {
         path: '/EventDetails/:eventId',
         element: <EventDetail />,
+        errorElement: <div>Error: pagina no encontrada</div>
+    },
+    {
+        path: '/Dashboard/:eventId',
+        element: <Dashboard />,
         errorElement: <div>Error: pagina no encontrada</div>
     }
 ]);

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "sVd8B3TH0VUFcJOdqjSvKxHlEIt3XavjTxAMOMD4fIs=",
+  "Hash": "rfY7Y5/Ut079Wu1e3niR0UPfcyU1uugttdevo+IlfkU=",
   "Source": "Asistencias.Server",
   "BasePath": "_content/Asistencias.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\HP\\source\\repos\\Asistencias\\asistencias.client\\asistencias.client.esproj",
+      "Identity": "C:\\Users\\HP\\Documents\\asistenciasgit\\Asistencia\\asistencias.client\\asistencias.client.esproj",
       "Version": 2,
       "Source": "asistencias.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

@@ -19,7 +19,7 @@ body {
     top: 0;
     left: 0;
     right: 0;
-    z-index: 1000; 
+    z-index: 1000;
 }
 
 .container {
@@ -40,7 +40,7 @@ body {
 }
 
     .title h1 {
-        font-size: 18px;
+        font-size: 25px !important;
         color: #000;
         margin: 0;
         font-weight: bold;
