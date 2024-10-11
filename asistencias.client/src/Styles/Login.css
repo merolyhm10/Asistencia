@@ -93,42 +93,42 @@ body {
 }
 
     .loginContainer.dark {
-        background-color: #333;
+        background-color: white;
         color: white;
     }
 
-    .email, .password{
-        color:black;
+.email, .password {
+    color: black;
+}
+
+.inputWrapper focus {
+    color: black;
+}
+
+.emailInput, .passwordInput {
+    background: white;
+    color: black;
+}
+
+.loginContainer.dark .email,
+.loginContainer.dark .password {
+    color: white;
+}
+
+.loginContainer.dark .emailInput,
+.loginContainer.dark .passwordInput {
+    background-color: #555;
+    color: white;
+    border: 1px solid #666;
+}
+
+.loginContainer.dark button {
+    background-color: #007bff;
+}
+
+    .loginContainer.dark button:hover {
+        background-color: #0056b3;
     }
-
-    .inputWrapper focus{
-        color:black;
-    }
-
-    .emailInput, .passwordInput{
-        background: white;
-        color:black;
-    }
-
-        .loginContainer.dark .email,
-        .loginContainer.dark .password {
-            color: white;
-        }
-
-        .loginContainer.dark .emailInput,
-        .loginContainer.dark .passwordInput {
-            background-color: #555;
-            color: white;
-            border: 1px solid #666;
-        }
-
-        .loginContainer.dark button {
-            background-color: #007bff;
-        }
-
-            .loginContainer.dark button:hover {
-                background-color: #0056b3;
-            }
 
 /* Estilos adicionales para los campos de entrada y el boton */
 
@@ -168,5 +168,3 @@ button {
     button:hover {
         background-color: #0056b3;
     }
-
-

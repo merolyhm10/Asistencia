@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:5173",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "C:\\Users\\HP\\source\\repos\\Asistencias\\Asistencias.Server\\..\\asistencias.client",
+"WorkingDirectory": "C:\\Users\\HP\\Documents\\asistenciasgit\\Asistencia\\Asistencias.Server\\..\\asistencias.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

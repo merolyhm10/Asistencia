@@ -61,6 +61,10 @@ namespace Asistencias.Models
 
     }
 
+    public class UpdateExcelRequest
+    {
+        public string ExcelFile { get; set; }
+    }
 
 
     public class ServerResult

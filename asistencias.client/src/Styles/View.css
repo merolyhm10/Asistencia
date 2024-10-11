@@ -32,11 +32,12 @@
 }
 
     .title h1 {
-        font-size: 18px;
+        font-size: 25px !important;
         color: #000;
         margin: 0;
         font-weight: bold;
     }
+
 
 .nav ul {
     list-style-type: none;
@@ -151,10 +152,16 @@
 
     .eventInfo h3, .eventInfo p {
         margin: 0;
-        padding-right: 100px;
+        padding-right: 200px;
         color: #333;
     }
-       
+
+    .eventInfo h2, .eventInfo p {
+        margin: 0;
+        padding-right: 270px;
+        color: #333;
+    }
+
 .detailsLink {
     padding: 8px 16px;
     background-color: #2196F3;

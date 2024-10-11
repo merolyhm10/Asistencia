@@ -211,7 +211,55 @@ public class Consulta
 
     }
 
-    
+
+    public async Task<ServerResult> UpdateEventExcel(string eventId, byte[] excelData)
+    {
+        try
+        {
+            var objectId = ObjectId.Parse(eventId);
+
+            var filter = Builders<EventCreate>.Filter.Eq(e => e.Id, objectId);
+            var update = Builders<EventCreate>.Update.Set(e => e.ExcelFile, excelData);
+
+            var result = await _eventCollection.UpdateOneAsync(filter, update);
+
+            if (result.ModifiedCount > 0)
+            {
+                return new ServerResult
+                {
+                    Exito = true,
+                    Mensaje = "Event Excel file updated successfully",
+                    Resultado = null
+                };
+            }
+
+            return new ServerResult
+            {
+                Exito = false,
+                Mensaje = "Event not found",
+                Resultado = null
+            };
+        }
+        catch (FormatException)
+        {
+            return new ServerResult
+            {
+                Exito = false,
+                Mensaje = "Invalid event ID format",
+                Resultado = null
+            };
+        }
+        catch (Exception ex)
+        {
+            return new ServerResult
+            {
+                Exito = false,
+                Mensaje = $"Error updating Excel file: {ex.Message}",
+                Resultado = null
+            };
+        }
+    }
+
 
 
 
@@ -347,6 +395,62 @@ public class Consulta
             .Produces<ServerResult>()
             .WithTags("Events")
             .WithDescription("Retrieve event by ID");
+        }
+
+
+        public static void UpdateEvent(WebApplication app)
+        {
+            app.MapPost("/api/event/{id}/update", async (string id, [FromBody] UpdateExcelRequest request, Consulta consulta) =>
+            {
+                try
+                {
+                    var excelData = Convert.FromBase64String(request.ExcelFile);
+                    var objectId = ObjectId.Parse(id);
+
+                    var filter = Builders<EventCreate>.Filter.Eq(e => e.Id, objectId);
+                    var update = Builders<EventCreate>.Update.Set(e => e.ExcelFile, excelData);
+
+                    var result = await consulta._eventCollection.UpdateOneAsync(filter, update);
+
+                    if (result.ModifiedCount > 0)
+                    {
+                        return Results.Ok(new ServerResult
+                        {
+                            Exito = true,
+                            Mensaje = "Archivo Excel actualizado correctamente",
+                            Resultado = null
+                        });
+                    }
+
+                    return Results.Json(new ServerResult
+                    {
+                        Exito = false,
+                        Mensaje = "Evento no encontrado",
+                        Resultado = null
+                    });
+                }
+                catch (FormatException)
+                {
+                    return Results.Json(new ServerResult
+                    {
+                        Exito = false,
+                        Mensaje = "ID del evento invalido",
+                        Resultado = null
+                    });
+                }
+                catch (Exception ex)
+                {
+                    return Results.Json(new ServerResult
+                    {
+                        Exito = false,
+                        Mensaje = $"Error al actualizar archivo: {ex.Message}",
+                        Resultado = null
+                    });
+                }
+            })
+            .Produces<ServerResult>()
+            .WithTags("Events")
+            .WithDescription("Actualizar el archivo Excel de un evento existente");
         }
 
 
